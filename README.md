@@ -35,7 +35,7 @@ Where should an e-commerce team investigate conversion losses first? This projec
 
 An overview of revenue, orders, conversion trends, and traffic performance. It includes a hypothetical checkout recovery scenario for exploring how different recovery assumptions affect the number of purchase sessions.
 
-![Business and funnel performance dashboard](Dashboards\Main.png)
+![Business and funnel performance dashboard](Dashboards/Main.png)
 
 ### 2. E-Commerce Category & Customer Performance
 
