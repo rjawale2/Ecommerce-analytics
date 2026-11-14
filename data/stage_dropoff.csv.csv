@@ -1,0 +1,5 @@
+step,stage,starting_sessions,dropped_sessions,sessions_with_both_steps,drop_off_rate
+1,Session → Product View,360129,283109,77020,0.78613219152026081
+2,Product View → Cart,77020,61847,15173,0.80299922098156318
+3,Cart → Checkout,15188,9227,5961,0.607519094021596
+4,Checkout → Purchase,11106,6261,4845,0.56374932468935712

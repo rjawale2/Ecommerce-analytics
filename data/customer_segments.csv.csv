@@ -1,0 +1,8 @@
+segment,users,sessions,orders,gross_purchase_revenue_usd,missing_revenue_orders
+Other visitors,208819,246923,0,0.0,0
+Product viewers,44732,71345,0,0.0,0
+Cart non-buyers,6888,15182,0,0.0,0
+Checkout non-buyers,5296,10919,0,0.0,0
+One-time buyers,3263,11006,3263,231298.0,0
+Purchase recorded without valid order,717,2383,0,0.0,0
+Repeat buyers,439,2371,1188,76342.0,0

@@ -1,0 +1,22 @@
+category,orders_including_category,units_sold,gross_item_revenue_usd,missing_revenue_item_rows
+Apparel,2539,4592,144437.0,0
+New,901,1817,22047.0,0
+Bags,526,953,21238.0,0
+Campus Collection,705,1839,16524.0,0
+Accessories,758,1686,15124.0,0
+Shop by Brand,662,1072,14647.0,0
+Uncategorized Items,389,646,14634.0,0
+Drinkware,551,946,13387.0,0
+Lifestyle,456,673,11254.0,0
+Clearance,462,800,10105.0,0
+Office,535,1766,7388.0,0
+Unknown,185,536,6347.0,0
+Google,227,635,2919.0,0
+Gift Cards,12,58,2475.0,0
+Small Goods,149,177,1563.0,0
+Stationery,166,599,1336.0,0
+Writing Instruments,124,391,782.0,0
+Notebooks & Journals,33,100,628.0,0
+Electronics Accessories,41,45,456.0,0
+Fun,30,127,213.0,0
+Black Lives Matter,1,1,58.0,0
